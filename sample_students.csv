@@ -1,0 +1,6 @@
+Student_ID,Name,Department,Semester,CGPA,Attendance,LMS_Logins,Assignment_Completion,Engagement,Placement_Readiness,Skills,Feedback,Backlogs
+STU1001,Aarav Sharma,CSE,6,8.4,88,34,92,78,81,85,84,0
+STU1002,Diya Singh,CSE,6,5.8,58,12,55,31,42,48,60,3
+STU1003,Rohan Verma,ECE,4,7.2,72,21,70,52,61,63,71,1
+STU1004,Ananya Gupta,IT,8,8.0,82,29,86,64,48,76,80,0
+STU1005,Karan Mehta,ME,5,6.1,64,10,58,29,35,44,55,4
