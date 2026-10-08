@@ -1,0 +1,1 @@
+# smart_campus_ai_repositry
